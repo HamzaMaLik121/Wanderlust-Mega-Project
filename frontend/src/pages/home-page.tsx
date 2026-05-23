@@ -26,6 +26,7 @@ function HomePage() {
         <BlogFeed />
         <h1 className="cursor-text pb-4 text-xl font-semibold dark:text-dark-primary sm:pb-0">
           Hamza is a billionaire
+          im among of those who bought mercedes
         </h1>
         <div className="flex flex-wrap">
           {posts.length === 0
